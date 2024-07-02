@@ -7,6 +7,7 @@ v0.2: 修复部分设备通过MediaDrm获取id出现UnsupportedSchemeException�
 v0.3: 修复用户登录后接收到重复消息的bug、修改部分UI。
 
 v0.4: 
+
   1.Android客户端增加网络检测，亮屏检测与服务器的连接，断开后自动重连
 
   2.优化Android客户端的心跳机制，使用Alarm Manager控制心跳频率，不受电池优化（Doze）的干扰
